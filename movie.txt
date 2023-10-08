@@ -1,6 +1,14 @@
 [
     {
         "type": "movie",
+        "title": "Ballerina (2023)",
+        "imdb_id": "tt26350277",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt26350277",
+        "tmdb_id": "961268",
+        "embed_url_tmdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/961268"
+    },
+    {
+        "type": "movie",
         "title": "Talk to me",
         "imdb_id": "tt10638522",
         "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt10638522"
@@ -590,5 +598,19 @@
         "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt12921446",
         "tmdb_id": "807172",
         "embed_url_tmdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/807172"
-      }
+    },
+    {
+        "type": "movie",
+        "title": "A Deadly Invitation (2023)",
+        "imdb_id": "tt13022120",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt13022120",
+        "tmdb_id": "1179664",
+        "embed_url_tmdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/1179664"
+    },
+    {
+        "type": "movie",
+        "title": "The Lord of the Rings: The Return of the King (2003)",
+        "imdb_id": "tt0167260",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0167260"
+    }
 ]
