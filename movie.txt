@@ -3,7 +3,7 @@
         "type": "tv",
         "title": "Ahsoka",
         "imdb_id": "tt13622776",
-        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/tv\\/tt10638522"
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/tv\\/tt13622776"
     },
     {
         "type": "movie",
