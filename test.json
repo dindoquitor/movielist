@@ -1,0 +1,126 @@
+{
+  "status": 200,
+  "result": {
+    "page": 1,
+    "items": [
+      {
+        "type": "movie",
+        "title": "Crawlers (2024)",
+        "imdb_id": "tt8639168",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt8639168"
+      },
+      {
+        "type": "movie",
+        "title": "About him & her (2023)",
+        "imdb_id": "tt15533748",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt15533748",
+        "tmdb_id": "915566",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/915566"
+      },
+      {
+        "type": "movie",
+        "title": "The Dive (2023)",
+        "imdb_id": "tt13566172",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt13566172",
+        "tmdb_id": "1109534",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/1109534"
+      },
+      {
+        "type": "movie",
+        "title": "Inspector Sun (2023)",
+        "imdb_id": "tt6661616",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt6661616",
+        "tmdb_id": "987750",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/987750"
+      },
+      {
+        "type": "movie",
+        "title": "Cobweb (2023)",
+        "imdb_id": "tt9100018",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt9100018",
+        "tmdb_id": "709631",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/709631"
+      },
+      {
+        "type": "movie",
+        "title": "Cascade (2023)",
+        "imdb_id": "tt12180508",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt12180508",
+        "tmdb_id": "972619",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/972619"
+      },
+      {
+        "type": "movie",
+        "title": "Slotherhouse (2023)",
+        "imdb_id": "tt15422224",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt15422224",
+        "tmdb_id": "1040892",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/1040892"
+      },
+      {
+        "type": "movie",
+        "title": "The Burial (2023)",
+        "imdb_id": "tt5648882",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt5648882",
+        "tmdb_id": "763165",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/763165"
+      },
+      {
+        "type": "movie",
+        "title": "Scary Tales: Dead Zone (2023)",
+        "imdb_id": "tt28226019",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt28226019",
+        "tmdb_id": "1188598",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/1188598"
+      },
+      {
+        "type": "movie",
+        "title": "She Came to Me (2023)",
+        "imdb_id": "tt6689014",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt6689014",
+        "tmdb_id": "503417",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/503417"
+      },
+      {
+        "type": "movie",
+        "title": "Butcher's Crossing (2023)",
+        "imdb_id": "tt1462759",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt1462759",
+        "tmdb_id": "843846",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/843846"
+      },
+      {
+        "type": "movie",
+        "title": "Shelter in Solitude (2023)",
+        "imdb_id": "tt14907358",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt14907358",
+        "tmdb_id": "986674",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/986674"
+      },
+      {
+        "type": "movie",
+        "title": "Ballerina (2023)",
+        "imdb_id": "tt26350277",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt26350277",
+        "tmdb_id": "961268",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/961268"
+      },
+      {
+        "type": "movie",
+        "title": "The Exorcist: Believer (2023)",
+        "imdb_id": "tt12921446",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt12921446",
+        "tmdb_id": "807172",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/807172"
+      },
+      {
+        "type": "movie",
+        "title": "A Deadly Invitation (2023)",
+        "imdb_id": "tt13022120",
+        "embed_url_imdb": "https://vidsrc.to/embed/movie/tt13022120",
+        "tmdb_id": "1179664",
+        "embed_url_tmdb": "https://vidsrc.to/embed/movie/1179664"
+      }
+    ]
+  }
+}
