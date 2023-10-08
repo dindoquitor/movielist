@@ -590,5 +590,5 @@
         "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt12921446",
         "tmdb_id": "807172",
         "embed_url_tmdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/807172"
-      },
+      }
 ]
