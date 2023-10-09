@@ -13,12 +13,6 @@
     },
     {
         "type": "movie",
-        "title": "Panibugho Trailer - 2023",
-        "imdb_id": "Q1w3G",
-        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/Q1w3G"
-    },
-    {
-        "type": "movie",
         "title": "Tag-init - 2023",
         "imdb_id": "764Ow",
         "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/764Ow"
@@ -34,5 +28,17 @@
         "title": "The Entitled - 2022",
         "imdb_id": "wpDj8",
         "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/wpDj8"
+    },
+    {
+        "type": "movie",
+        "title": "BJJ: Woman on Top - 2023",
+        "imdb_id": "nZwy5",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/nZwy5"
+    },
+    {
+        "type": "movie",
+        "title": "The Last Resort - 2023",
+        "imdb_id": "8qQLj",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/8qQLj"
     }
 ]
