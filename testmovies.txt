@@ -2,13 +2,7 @@
     {
         "type": "movie",
         "title": "Test-1",
-        "imdb_id": "x8orhxg",
-        "embed_url_imdb": "https:\\/\\/www.dailymotion.com\\/embed\\/video\\/x8orhxg"
+        "imdb_id": "1ZKwLHmBQZJ3g2BZ7XMgFrWBmRsHLpT44",
+        "embed_url_imdb": "https:\\/\\/drive.google.com\\/file\\/d\\/1ZKwLHmBQZJ3g2BZ7XMgFrWBmRsHLpT44"
     },
-    {
-        "type": "movie",
-        "title": "Katawan mo, langit ko (Kamandag ni Margarita)",
-        "imdb_id": "58NZY",
-        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/58NZY"
-    }
 ]
