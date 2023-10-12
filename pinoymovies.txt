@@ -40,5 +40,17 @@
         "title": "The Last Resort - 2023",
         "imdb_id": "8qQLj",
         "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/8qQLj"
+    },
+    {
+        "type": "movie",
+        "title": "Ten Little Mistresses - 2023",
+        "imdb_id": "Q14GG",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/Q14GG"
+    },
+    {
+        "type": "movie",
+        "title": "Linlang",
+        "imdb_id": "J6B2",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/J6B2"
     }
 ]
