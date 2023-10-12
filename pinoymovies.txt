@@ -52,5 +52,23 @@
         "title": "Linlang",
         "imdb_id": "J6B2",
         "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/J6B2"
+    },
+    {
+        "type": "movie",
+        "title": "Linlang-2",
+        "imdb_id": "3lL8A",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/3lL8A"
+    },
+    {
+        "type": "movie",
+        "title": "Linlang-3",
+        "imdb_id": "g5mor",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/g5mor"
+    },
+    {
+        "type": "movie",
+        "title": "Linlang-4",
+        "imdb_id": "j2pry",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/j2pry"
     }
 ]
