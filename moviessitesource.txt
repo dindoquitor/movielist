@@ -11,6 +11,11 @@ https://lokapack.com/
 https://pinoymovies.se/
 https://flixembed.com/video/
 https://bescraper.cf/app/dashboard 
+https://flixhq.to/
+https://gomovies.sx/
+https://kissasian.lu/
+https://zoechip.cc/
+
 
 
 API KEY
@@ -19,3 +24,6 @@ API KEY
 
 
 https://www.themoviedb.org/ => where to get the movies id
+
+
+virustotal.com, hybrid-analysis.com or malwr.com
