@@ -70,5 +70,23 @@
         "title": "Linlang-4",
         "imdb_id": "j2pry",
         "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/j2pry"
+    },
+    {
+        "type": "movie",
+        "title": "Ahasss - 2023",
+        "imdb_id": "0gGZ5",
+        "embed_url_imdb": "https:\\/\\\/vivamax.asia\\/embed\\/0gGZ5"
+    },
+    {
+        "type": "movie",
+        "title": "In My Mother's Skin - 2023",
+        "imdb_id": "k5qvJ",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/k5qvJ"
+    },
+     {
+        "type": "movie",
+        "title": "Without You - 2023",
+        "imdb_id": "Nx3m8",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/Nx3m8"
     }
 ]
