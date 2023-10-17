@@ -612,5 +612,11 @@
         "title": "The Lord of the Rings: The Return of the King (2003)",
         "imdb_id": "tt0167260",
         "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0167260"
+    },
+    {
+        "type": "movie",
+        "title": "The Good Dinosaur",
+        "imdb_id": "tt1979388",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt1979388"
     }
 ]

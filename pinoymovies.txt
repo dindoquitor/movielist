@@ -94,5 +94,29 @@
         "title": "Maid in Malacañang - 2022",
         "imdb_id": "tt21279138",
         "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/tt21279138"
+    },
+    {
+        "type": "movie",
+        "title": " Can't Buy Me Love - Episode 1 - 2023",
+        "imdb_id": "lOr1M",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/lOr1M"
+    },
+    {
+        "type": "movie",
+        "title": " Can't Buy Me Love - Episode 2 - 2023",
+        "imdb_id": "mwv5G",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/mwv5G"
+    },
+    {
+        "type": "movie",
+        "title": " Halo-Halo X - Episode 1 - 2023",
+        "imdb_id": "76PZQ",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/76PZQ"
+    },
+    {
+        "type": "movie",
+        "title": " Halo-Halo X - Episode 2 - 2023",
+        "imdb_id": "k5q16",
+        "embed_url_imdb": "https:\/\\/vivamax.asia\\/embed\\/k5q16"
     }
 ]
