@@ -1,6 +1,18 @@
 [
     {
         "type": "movie",
+        "title": "Linlang-5",
+        "imdb_id": "oYx1X",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/oYx1X"
+    },
+    {
+        "type": "movie",
+        "title": "Linlang-6",
+        "imdb_id": "pgy1V",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/pgy1V"
+    },
+    {
+        "type": "movie",
         "title": "Langitngit - 2023",
         "imdb_id": "y8LN6",
         "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/y8LN6"
