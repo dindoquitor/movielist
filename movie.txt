@@ -618,5 +618,17 @@
         "title": "The Good Dinosaur",
         "imdb_id": "tt1979388",
         "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt1979388"
+    },
+    {
+        "type": "movie",
+        "title": "Hidden",
+        "imdb_id": "tt2131532",
+        "embed_url_imdb": "https:\\/\\\/vidsrc.to\\/embed\\/movie\\/tt2131532"
+    },
+    {
+        "type": "movie",
+        "title": "Vertical Limit",
+        "imdb_id": "tt0190865",
+        "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/movie\\/tt0190865"
     }
 ]
