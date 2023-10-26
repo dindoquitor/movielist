@@ -130,5 +130,17 @@
         "title": " Halo-Halo X - Episode 2 - 2023",
         "imdb_id": "k5q16",
         "embed_url_imdb": "https:\/\\/vivamax.asia\\/embed\\/k5q16"
+    },
+    {
+        "type": "movie",
+        "title": "Linlang-7",
+        "imdb_id": "KO3Dx",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/KO3Dx"
+    },
+    {
+        "type": "movie",
+        "title": "Linlang-8",
+        "imdb_id": "Lg3Er",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\/Lg3Er"
     }
 ]
