@@ -133,6 +133,18 @@
     },
     {
         "type": "movie",
+        "title": " Halo-Halo X - Episode 3 - 2023",
+        "imdb_id": "xGKgB",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/xGKgB"
+    },
+    {
+        "type": "movie",
+        "title": " Halo-Halo X - Episode 4 - 2023",
+        "imdb_id": "Rg3NE",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/Rg3NE"
+    },
+    {
+        "type": "movie",
         "title": "Linlang-7",
         "imdb_id": "KO3Dx",
         "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/KO3Dx"
@@ -142,5 +154,29 @@
         "title": "Linlang-8",
         "imdb_id": "Lg3Er",
         "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\/Lg3Er"
+    },
+    {
+        "type": "movie",
+        "title": "Sila Ay Akin - 2023",
+        "imdb_id": "El3wg",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/El3wg"
+    },
+    {
+        "type": "movie",
+        "title": "The Ship Show - 2023",
+        "imdb_id": "nZw17",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/nZw17"
+    },
+    {
+        "type": "movie",
+        "title": "Haliparot - 2023",
+        "imdb_id": "r0A1p",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/r0A1p"
+    },
+    {
+        "type": "movie",
+        "title": "The Cheating Game - 2023",
+        "imdb_id": "Mj3GG",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/Mj3GG"
     }
 ]
