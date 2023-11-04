@@ -98,6 +98,18 @@
     },
     {
         "type": "movie",
+        "title": "Linlang-9",
+        "imdb_id": "qjz3p",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/qjz3p"
+    },
+    {
+        "type": "movie",
+        "title": "Linlang-10",
+        "imdb_id": "r0A3p",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/r0A3p"
+    },
+    {
+        "type": "movie",
         "title": "Ahasss - 2023",
         "imdb_id": "0gGZ5",
         "embed_url_imdb": "https:\\/\\\/vivamax.asia\\/embed\\/0gGZ5"
@@ -179,5 +191,11 @@
         "title": "The Cheating Game - 2023",
         "imdb_id": "Mj3GG",
         "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/Mj3GG"
+    },
+    {
+        "type": "movie",
+        "title": "Tuhog - 2023",
+        "imdb_id": "58ND8",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/58ND8"
     }
 ]
