@@ -110,6 +110,18 @@
     },
     {
         "type": "movie",
+        "title": "Linlang-11",
+        "imdb_id": "3lL5R",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/3lL5R"
+    },
+    {
+        "type": "movie",
+        "title": "Linlang-12",
+        "imdb_id": "48M7x",
+        "embed_url_imdb": "https:\\/\\/vivamax.asia\\/embed\\/48M7x"
+    },
+    {
+        "type": "movie",
         "title": "Ahasss - 2023",
         "imdb_id": "0gGZ5",
         "embed_url_imdb": "https:\\/\\\/vivamax.asia\\/embed\\/0gGZ5"
