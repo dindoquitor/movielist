@@ -19,6 +19,7 @@ https://abyss.to/ => Video Hosting
 https://nowshowing.to
 https://pinoymovieshub.cx/
 https://tagalogdubbed.com/
+https://streamfla.re/panel/profile
 
 
 API KEY
